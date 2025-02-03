@@ -41,7 +41,7 @@
           Phone: +88016XXXXXXXX
         </p>
         <p>
-          MD. SHAKIL AHMED<br>
+          MD. S AHMED<br>
           AIUBian-CSSE<br>
           Email: shakil@gmail.com<br>
           Phone: +88016XXXXXXXX
